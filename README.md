@@ -17,6 +17,6 @@ $ npm install @thacash/cash_finance
 const cashfinance = require("@thacash/cash_finance");
 
 cashfinance.getContractIncomePercent(contractPrice, stockPrice);
-//=> "28"
+//=> 28.79
 
 ```
